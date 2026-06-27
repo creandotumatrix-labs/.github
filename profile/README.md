@@ -4,7 +4,7 @@
 
 </div>
 
-# CreandoTuMatrixLabs
+# CreandoTuMatrix Labs
 
 **Soluciones de IA agéntica para América Latina.**  
 Agentic AI solutions for Latin America.
@@ -23,6 +23,18 @@ We build autonomous AI systems, cloud-native infrastructure, and intelligent aut
 - **Infraestructura cloud** — AWS · GCP · Azure · Kubernetes · Terraform · GitOps  
 - **Automatización DevSecOps** — CI/CD, secret scanning, compliance, observabilidad  
 - **Coaching técnico** — Equipos de ingeniería que adoptan IA en su flujo de trabajo
+
+---
+
+## Proyectos / Projects
+
+| Proyecto | Descripción |
+|---|---|
+| [turboflow-espanol](https://github.com/creandotumatrix-labs/turboflow-espanol) | Turbo-Flow en español — entorno de desarrollo agéntico avanzado para la comunidad hispanohablante |
+| [turbo-flow-espanol-promotion](https://github.com/creandotumatrix-labs/turbo-flow-espanol-promotion) | Landing page de promoción de Turbo-Flow Español — materiales de marketing para la plataforma |
+| [Casa_Lingua](https://github.com/creandotumatrix-labs/Casa_Lingua) | CasaLingua 2.0 — Centro de comando IA para profesionales inmobiliarios mexicanos. Due diligence, generación de documentos y calculadora fiscal |
+| [tu-guia-ia](https://github.com/creandotumatrix-labs/tu-guia-ia) | Tu Guía IA — Plataforma educativa de IA en español con tutoriales y recursos para usuarios hispanohablantes |
+| [guia-ai-gratis](https://github.com/creandotumatrix-labs/guia-ai-gratis) | Guía Completa de Ingeniería Agéntica — descarga gratuita para desarrolladores de habla hispana |
 
 ---
 
