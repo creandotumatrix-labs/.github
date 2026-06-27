@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#00d4ff" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-dim" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#00d4ff" flood-opacity="0.3" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="280" fill="#0a0a0a"/>
+
+  <!-- Corner accents -->
+  <line x1="12" y1="12" x2="52" y2="12" stroke="#006680" stroke-width="2.5"/>
+  <line x1="12" y1="12" x2="12" y2="52" stroke="#006680" stroke-width="2.5"/>
+  <line x1="1388" y1="12" x2="1348" y2="12" stroke="#006680" stroke-width="2.5"/>
+  <line x1="1388" y1="12" x2="1388" y2="52" stroke="#006680" stroke-width="2.5"/>
+  <line x1="12" y1="268" x2="52" y2="268" stroke="#006680" stroke-width="2.5"/>
+  <line x1="12" y1="268" x2="12" y2="228" stroke="#006680" stroke-width="2.5"/>
+  <line x1="1388" y1="268" x2="1348" y2="268" stroke="#006680" stroke-width="2.5"/>
+  <line x1="1388" y1="268" x2="1388" y2="228" stroke="#006680" stroke-width="2.5"/>
+
+  <!-- Main org name -->
+  <text x="60" y="115"
+    font-family="'Courier New', Courier, monospace"
+    font-size="72"
+    font-weight="bold"
+    fill="#00d4ff"
+    filter="url(#glow)"
+    letter-spacing="4">CREANDO TU MATRIX</text>
+
+  <!-- Subtitle line -->
+  <text x="60" y="165"
+    font-family="'Courier New', Courier, monospace"
+    font-size="28"
+    fill="#00d4ff"
+    filter="url(#glow-dim)"
+    opacity="0.75">$ ./init --region=latam --mode=agentic --status=activo</text>
+
+  <!-- Right-side stat blocks -->
+  <text x="920" y="105"
+    font-family="'Courier New', Courier, monospace"
+    font-size="20"
+    fill="#00d4ff"
+    filter="url(#glow-dim)"
+    text-anchor="end">[ REGION: LATAM ]</text>
+
+  <text x="920" y="135"
+    font-family="'Courier New', Courier, monospace"
+    font-size="20"
+    fill="#00d4ff"
+    filter="url(#glow-dim)"
+    text-anchor="end">[ STACK: CLAUDE + RUST + K8S ]</text>
+
+  <text x="920" y="165"
+    font-family="'Courier New', Courier, monospace"
+    font-size="20"
+    fill="#00d4ff"
+    filter="url(#glow-dim)"
+    text-anchor="end">[ CLOUD: AWS + GCP + AZURE ]</text>
+
+  <text x="920" y="195"
+    font-family="'Courier New', Courier, monospace"
+    font-size="20"
+    fill="#00b8d9"
+    filter="url(#glow-dim)"
+    text-anchor="end">[ STATUS: EN PRODUCCION ]</text>
+
+  <!-- Bottom tagline -->
+  <text x="60" y="240"
+    font-family="'Courier New', Courier, monospace"
+    font-size="20"
+    fill="#006680">Soluciones de IA agentica para America Latina · Agentic AI solutions for Latin America</text>
+</svg>
