@@ -1,3 +1,9 @@
+<div align="center">
+
+[![CreandoTuMatrix Labs](../banner.svg)](https://github.com/creandotumatrix-labs)
+
+</div>
+
 # CreandoTuMatrixLabs
 
 **Soluciones de IA agéntica para América Latina.**  
