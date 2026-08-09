@@ -48,14 +48,22 @@ Productos en despliegue con clientes — repositorios privados.
 
 #### Demos en desarrollo / Work-in-progress demos
 
-> ⚠️ **Demos en desarrollo — no aptos para producción.** Estas animaciones ilustran el flujo previsto; el software está en desarrollo activo.  
+> ⚠️ **Demos en desarrollo — no aptos para producción.** Estas animaciones ilustran el flujo previsto; el software está en desarrollo activo.
+>
 > *Work-in-progress demos, not production-ready. These illustrate the intended flow; the software is under active development.*
 
-| <img src="demos/asistente-pedidos.gif" width="300" alt="Pedido por WhatsApp con upsell y total calculado por la herramienta"> | <img src="demos/asistente-comercial.gif" width="300" alt="Calificacion de lead entrante por WhatsApp"> |
-|:---:|:---:|
-| ***asistente-pedidos*** — pedido con upsell.<br>Guion tomado de `scripts/simulate.ts`; el total lo calcula la herramienta, no el modelo. | ***asistente-comercial*** — calificacion de lead.<br>Guion ilustrativo: las preguntas vienen de `qualification.slots` y el modelo las parafrasea en cada corrida. La puntuacion si es deterministica. |
+**asistente-pedidos** — pedido por WhatsApp con upsell.
+Guion tomado de `scripts/simulate.ts`. El total lo calcula la herramienta, no el modelo.
 
-**Acceso al codigo / Code access** — estos repositorios son privados. Escribenos para solicitar acceso.  
+![Demo de asistente-pedidos: pedido por WhatsApp con upsell y total calculado por la herramienta](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/asistente-pedidos.gif)
+
+**asistente-comercial** — calificación de lead entrante.
+Guion ilustrativo: las preguntas vienen de `qualification.slots` y el modelo las parafrasea en cada corrida. La puntuación sí es determinística.
+
+![Demo de asistente-comercial: calificacion de lead entrante por WhatsApp](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/asistente-comercial.gif)
+
+**Acceso al código / Code access** — estos repositorios son privados. Escríbenos para solicitar acceso.
+
 *These repositories are private. Contact us to request access.*
 
 ---
