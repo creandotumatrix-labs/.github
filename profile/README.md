@@ -1,6 +1,6 @@
 <div align="center">
 
-[![CreandoTuMatrix Labs](../banner.svg)](https://github.com/creandotumatrix-labs)
+[![CreandoTuMatrix Labs](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/banner.svg)](https://github.com/creandotumatrix-labs)
 
 </div>
 
