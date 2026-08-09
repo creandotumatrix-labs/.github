@@ -26,8 +26,12 @@ Construimos sistemas de IA autónomos, infraestructura cloud-native y automatiza
 
 ## Proyectos / Projects
 
-| Proyecto | Descripción |
-|---|---|
+### El stack Turbo-Flow
+
+| Herramienta | Estrellas | Lenguaje | Propósito |
+|---|---|---|---|
+| [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria entre sesiones (Beads), grafo de conocimiento del código (GitNexus), aislamiento por agente con git worktrees. Un solo comando lo despliega en DevPod, Codespaces o Rackspace Spot. |
+| [**turbo-flow-wizard**](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Asistente de configuración guiada para turbo-flow — generador interactivo de archivos `CLAUDE.md` específicos por proyecto. 12 tipos de aplicación, 7 metodologías, 19 conjuntos de funcionalidades. |
 
 ---
 
