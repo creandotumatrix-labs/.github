@@ -51,28 +51,28 @@
     opacity="0.75">$ ./init --region=latam --mode=agentic --status=activo</text>
 
   <!-- Right-side stat blocks -->
-  <text x="920" y="105"
+  <text x="1340" y="105"
     font-family="'Courier New', Courier, monospace"
     font-size="20"
     fill="#00d4ff"
     filter="url(#glow-dim)"
     text-anchor="end">[ REGION: LATAM ]</text>
 
-  <text x="920" y="135"
+  <text x="1340" y="135"
     font-family="'Courier New', Courier, monospace"
     font-size="20"
     fill="#00d4ff"
     filter="url(#glow-dim)"
     text-anchor="end">[ STACK: CLAUDE + RUST + K8S ]</text>
 
-  <text x="920" y="165"
+  <text x="1340" y="165"
     font-family="'Courier New', Courier, monospace"
     font-size="20"
     fill="#00d4ff"
     filter="url(#glow-dim)"
     text-anchor="end">[ CLOUD: AWS + GCP + AZURE ]</text>
 
-  <text x="920" y="195"
+  <text x="1340" y="195"
     font-family="'Courier New', Courier, monospace"
     font-size="20"
     fill="#00b8d9"
