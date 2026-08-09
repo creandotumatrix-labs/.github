@@ -13,8 +13,6 @@ Agentic AI solutions for Latin America.
 
 Construimos sistemas de IA autónomos, infraestructura cloud-native y automatización inteligente para empresas en LATAM.
 
-We build autonomous AI systems, cloud-native infrastructure, and intelligent automation for companies across Latin America.
-
 ---
 
 ## ¿Qué hacemos? / What We Do
