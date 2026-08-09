@@ -46,6 +46,18 @@ Productos en despliegue con clientes — repositorios privados.
 | **cdmx-agent-demo** | MVP de agente marca blanca para PyMEs de CDMX — calificación de prospectos inmobiliarios y pedidos de restaurante sobre un mismo runtime. |
 | **loyalty-club-engine** | Club de lealtad multi-comercio por WhatsApp — agente Claude + herramientas determinísticas + Postgres. |
 
+#### Demos en desarrollo / Work-in-progress demos
+
+> ⚠️ **Demos en desarrollo — no aptos para producción.** Estas animaciones ilustran el flujo previsto; el software está en desarrollo activo.  
+> *Work-in-progress demos, not production-ready. These illustrate the intended flow; the software is under active development.*
+
+| <img src="demos/asistente-pedidos.gif" width="300" alt="Pedido por WhatsApp con upsell y total calculado por la herramienta"> | <img src="demos/asistente-comercial.gif" width="300" alt="Calificacion de lead entrante por WhatsApp"> |
+|:---:|:---:|
+| ***asistente-pedidos*** — pedido con upsell.<br>Guion tomado de `scripts/simulate.ts`; el total lo calcula la herramienta, no el modelo. | ***asistente-comercial*** — calificacion de lead.<br>Guion ilustrativo: las preguntas vienen de `qualification.slots` y el modelo las parafrasea en cada corrida. La puntuacion si es deterministica. |
+
+**Acceso al codigo / Code access** — estos repositorios son privados. Escribenos para solicitar acceso.  
+*These repositories are private. Contact us to request access.*
+
 ---
 
 ## Filosofía / Philosophy
