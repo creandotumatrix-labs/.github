@@ -26,6 +26,19 @@ Construimos sistemas de IA autónomos, infraestructura cloud-native y automatiza
 
 ## Proyectos / Projects
 
+### Agentes comerciales de WhatsApp / WhatsApp business agents
+
+Productos en despliegue con clientes — repositorios privados.  
+*Commercial products in client deployment — private repositories.*
+
+| Producto | Propósito |
+|---|---|
+| **asistente-pedidos** | Agente de pedidos y reservaciones por WhatsApp, marca blanca (es-MX), sobre un runtime compartido de tool-use con Claude. |
+| **asistente-de-tienda** | Agente de soporte y ventas para retail y ecommerce por WhatsApp (es-MX), asentado sobre un catálogo real. |
+| **asistente-comercial** | Calificador de prospectos por WhatsApp, agnóstico al vertical: califica → puntúa → agenda → enruta. |
+| **cdmx-agent-demo** | MVP de agente marca blanca para PyMEs de CDMX — calificación de prospectos inmobiliarios y pedidos de restaurante sobre un mismo runtime. |
+| **loyalty-club-engine** | Club de lealtad multi-comercio por WhatsApp — agente Claude + herramientas determinísticas + Postgres. |
+
 ### El stack Turbo-Flow
 
 | Herramienta | Estrellas | Lenguaje | Propósito |
