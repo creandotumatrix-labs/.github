@@ -18,7 +18,7 @@ Construimos sistemas de IA autónomos, infraestructura cloud-native y automatiza
 ## ¿Qué hacemos? / What We Do
 
 - **Ingeniería agéntica** — Diseño e implementación de sistemas multi-agente con Claude Code y SPARC  
-- **Infraestructura cloud** — AWS · GCP · Azure · Kubernetes · Terraform · GitOps  
+- **Infraestructura cloud** — AWS · GCP · Azure · Kubernetes · Terraform · GitOps, aplicado en despliegues de cliente (la infraestructura vive en proyectos privados, no en los repos públicos de este org)
 - **Automatización DevSecOps** — CI/CD, secret scanning, compliance, observabilidad  
 - **Coaching técnico** — Equipos de ingeniería que adoptan IA en su flujo de trabajo
 
@@ -28,7 +28,7 @@ Construimos sistemas de IA autónomos, infraestructura cloud-native y automatiza
 
 | Herramienta | Estrellas | Lenguaje | Propósito |
 |---|---|---|---|
-| [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria entre sesiones (Beads), grafo de conocimiento del código (GitNexus), aislamiento por agente con git worktrees. Un solo comando lo despliega en DevPod, Codespaces o Rackspace Spot. |
+| [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria entre sesiones (Beads), grafo de conocimiento del código (GitNexus), aislamiento por agente con git worktrees. Un solo comando lo despliega en DevPod, Codespaces o Rackspace Spot. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. |
 | [**turbo-flow-wizard**](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Asistente de configuración guiada para turbo-flow — generador interactivo de archivos `CLAUDE.md` específicos por proyecto. 12 tipos de aplicación, 7 metodologías, 19 conjuntos de funcionalidades. |
 
 ## Proyectos / Projects
@@ -81,8 +81,9 @@ Our methodology combines robust systems architecture with the velocity that mode
 
 ## Tecnología / Stack
 
-Claude Code · Turbo-Flow · Rust · Python · Shell  
-Kubernetes · Terraform · ArgoCD · AWS · GCP · Azure
+Claude Code · Rust · Python · Shell
+
+Stack de infraestructura usado en despliegues de cliente (no reflejado en los repos públicos de este org): Kubernetes · Terraform · ArgoCD · AWS · GCP · Azure
 
 ---
 
