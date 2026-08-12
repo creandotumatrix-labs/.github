@@ -31,6 +31,12 @@ Construimos sistemas de IA autónomos, infraestructura cloud-native y automatiza
 | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria entre sesiones (Beads), grafo de conocimiento del código (GitNexus), aislamiento por agente con git worktrees. Un solo comando lo despliega en DevPod, Codespaces o Rackspace Spot. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. |
 | [**turbo-flow-wizard**](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Asistente de configuración guiada para turbo-flow — generador interactivo de archivos `CLAUDE.md` específicos por proyecto. 12 tipos de aplicación, 7 metodologías, 19 conjuntos de funcionalidades. |
 
+### En acción / In motion
+
+| [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/turbo-flow-demo.gif" width="420" alt="turbo-flow ejecutando la instalación real codespace_setup.sh, luego un recorrido en vivo por tmux y el inicio de claude">](https://github.com/marcuspat/turbo-flow) | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/turbo-flow-wizard-demo.gif" width="420" alt="turbo-flow-wizard generando un CLAUDE.pre en una sesion de preguntas en vivo">](https://github.com/adventurewave-labs/turbo-flow-wizard) |
+|:---:|:---:|
+| *turbo-flow — instalación real, workspace tmux real, inicio de claude real* | *turbo-flow-wizard — generador interactivo de CLAUDE.md* |
+
 ## Proyectos / Projects
 
 ### Agentes comerciales de WhatsApp / WhatsApp business agents
