@@ -37,16 +37,6 @@ Construimos sistemas de IA autónomos, infraestructura cloud-native y automatiza
 |:---:|:---:|
 | *turbo-flow — instalación real, workspace tmux real, inicio de claude* | *turbo-flow-wizard — generador interactivo de CLAUDE.md* |
 
-Los cuatro agentes comerciales de WhatsApp, en vivo:
-
-| [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/asistente-pedidos/main/asistente-pedidos-demo-v2.gif" width="420" alt="asistente-pedidos tomando un pedido de tacos por WhatsApp y actualizando el tablero de cocina en vivo">](https://github.com/creandotumatrix-labs/asistente-pedidos) | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/asistente-de-tienda/main/asistente-de-tienda-demo.gif" width="420" alt="asistente-de-tienda respondiendo preguntas de catalogo real y generando un link de pago">](https://github.com/creandotumatrix-labs/asistente-de-tienda) |
-|:---:|:---:|
-| *asistente-pedidos — pedido y reservación por WhatsApp, tablero de cocina en vivo* | *asistente-de-tienda — soporte y ventas grounded en catálogo real* |
-
-| [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/asistente-comercial/main/asistente-comercial-demo.gif" width="420" alt="asistente-comercial calificando un prospecto por WhatsApp y agendando una cita en Google Calendar">](https://github.com/creandotumatrix-labs/asistente-comercial) | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/cdmx-agent-demo/main/cdmx-agent-demo.gif" width="420" alt="cdmx-agent-demo mostrando el mismo motor cambiando de inmobiliaria a restaurante con un solo archivo de configuracion">](https://github.com/creandotumatrix-labs/cdmx-agent-demo) |
-|:---:|:---:|
-| *asistente-comercial — calificación, scoring y booking de leads por WhatsApp* | *cdmx-agent-demo — un motor, dos verticales, marca blanca por config* |
-
 ## Proyectos / Projects
 
 ### Agentes comerciales de WhatsApp / WhatsApp business agents
@@ -65,6 +55,16 @@ Productos en despliegue con clientes.
 **Acceso al código / Code access** — `asistente-pedidos`, `asistente-de-tienda`, `asistente-comercial` y `cdmx-agent-demo` son públicos; cada README trae su propio GIF de demo. `loyalty-club-engine` sigue privado — escríbenos para solicitar acceso.
 
 *`asistente-pedidos`, `asistente-de-tienda`, `asistente-comercial` and `cdmx-agent-demo` are public — each README has its own demo GIF. `loyalty-club-engine` is still private; contact us for access.*
+
+### En acción / In motion
+
+| [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/asistente-pedidos/main/asistente-pedidos-demo-v2.gif" width="420" alt="asistente-pedidos tomando un pedido de tacos por WhatsApp y actualizando el tablero de cocina en vivo">](https://github.com/creandotumatrix-labs/asistente-pedidos) | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/asistente-de-tienda/main/asistente-de-tienda-demo.gif" width="420" alt="asistente-de-tienda respondiendo preguntas de catalogo real y generando un link de pago">](https://github.com/creandotumatrix-labs/asistente-de-tienda) |
+|:---:|:---:|
+| *asistente-pedidos — pedido y reservación por WhatsApp, tablero de cocina en vivo* | *asistente-de-tienda — soporte y ventas grounded en catálogo real* |
+
+| [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/asistente-comercial/main/asistente-comercial-demo.gif" width="420" alt="asistente-comercial calificando un prospecto por WhatsApp y agendando una cita en Google Calendar">](https://github.com/creandotumatrix-labs/asistente-comercial) | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/cdmx-agent-demo/main/cdmx-agent-demo.gif" width="420" alt="cdmx-agent-demo mostrando el mismo motor cambiando de inmobiliaria a restaurante con un solo archivo de configuracion">](https://github.com/creandotumatrix-labs/cdmx-agent-demo) |
+|:---:|:---:|
+| *asistente-comercial — calificación, scoring y booking de leads por WhatsApp* | *cdmx-agent-demo — un motor, dos verticales, marca blanca por config* |
 
 ---
 
