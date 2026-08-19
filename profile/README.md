@@ -35,42 +35,26 @@ Construimos sistemas de IA autónomos, infraestructura cloud-native y automatiza
 
 | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/turbo-flow-demo.gif" width="420" alt="turbo-flow ejecutando la instalación real codespace_setup.sh, luego un recorrido en vivo por tmux y el inicio de claude">](https://github.com/marcuspat/turbo-flow) | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/turbo-flow-wizard-demo.gif" width="420" alt="turbo-flow-wizard generando un CLAUDE.pre en una sesion de preguntas en vivo">](https://github.com/adventurewave-labs/turbo-flow-wizard) |
 |:---:|:---:|
-| *turbo-flow — instalación real, workspace tmux real, inicio de claude real* | *turbo-flow-wizard — generador interactivo de CLAUDE.md* |
+| *turbo-flow — instalación real, workspace tmux real, inicio de claude* | *turbo-flow-wizard — generador interactivo de CLAUDE.md* |
 
 ## Proyectos / Projects
 
 ### Agentes comerciales de WhatsApp / WhatsApp business agents
 
-Productos en despliegue con clientes — repositorios privados.  
-*Commercial products in client deployment — private repositories.*
+Productos en despliegue con clientes.
+*Commercial products in client deployment.*
 
-| Producto | Propósito |
-|---|---|
-| **asistente-pedidos** | Agente de pedidos y reservaciones por WhatsApp, marca blanca (es-MX), sobre un runtime compartido de tool-use con Claude. |
-| **asistente-de-tienda** | Agente de soporte y ventas para retail y ecommerce por WhatsApp (es-MX), asentado sobre un catálogo real. |
-| **asistente-comercial** | Calificador de prospectos por WhatsApp, agnóstico al vertical: califica → puntúa → agenda → enruta. |
-| **cdmx-agent-demo** | MVP de agente marca blanca para PyMEs de CDMX — calificación de prospectos inmobiliarios y pedidos de restaurante sobre un mismo runtime. |
-| **loyalty-club-engine** | Club de lealtad multi-comercio por WhatsApp — agente Claude + herramientas determinísticas + Postgres. |
+| Producto | Propósito | Demo |
+|---|---|---|
+| [**asistente-pedidos**](https://github.com/creandotumatrix-labs/asistente-pedidos) | Agente de pedidos y reservaciones por WhatsApp, marca blanca (es-MX), sobre un runtime compartido de tool-use con Claude. | [▶ Ver demo](https://asistente-pedidos-production.up.railway.app/kitchen) |
+| [**asistente-de-tienda**](https://github.com/creandotumatrix-labs/asistente-de-tienda) | Agente de soporte y ventas para retail y ecommerce por WhatsApp (es-MX), asentado sobre un catálogo real. | [▶ Ver demo](https://asistente-de-tienda-production.up.railway.app/) |
+| [**asistente-comercial**](https://github.com/creandotumatrix-labs/asistente-comercial) | Calificador de prospectos por WhatsApp, agnóstico al vertical: califica → puntúa → agenda → enruta. | [▶ Ver demo](https://asistente-comercial-production.up.railway.app/) |
+| [**cdmx-agent-demo**](https://github.com/creandotumatrix-labs/cdmx-agent-demo) | MVP de agente marca blanca para PyMEs de CDMX — calificación de prospectos inmobiliarios y pedidos de restaurante sobre un mismo runtime. | [▶ Ver demo](https://cdmx-agent-demo-production.up.railway.app/demo) |
+| **loyalty-club-engine** | Club de lealtad multi-comercio por WhatsApp — agente Claude + herramientas determinísticas + Postgres. | *repositorio privado* |
 
-#### Demos en desarrollo / Work-in-progress demos
+**Acceso al código / Code access** — `asistente-pedidos`, `asistente-de-tienda`, `asistente-comercial` y `cdmx-agent-demo` son públicos; cada README trae su propio GIF de demo. `loyalty-club-engine` sigue privado — escríbenos para solicitar acceso.
 
-> ⚠️ **Demos en desarrollo — no aptos para producción.** Estas animaciones ilustran el flujo previsto; el software está en desarrollo activo.
->
-> *Work-in-progress demos, not production-ready. These illustrate the intended flow; the software is under active development.*
-
-**asistente-pedidos** — pedido por WhatsApp con upsell.
-Guion tomado de `scripts/simulate.ts`. El total lo calcula la herramienta, no el modelo.
-
-![Demo de asistente-pedidos: pedido por WhatsApp con upsell y total calculado por la herramienta](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/asistente-pedidos.gif)
-
-**asistente-comercial** — calificación de lead entrante.
-Guion ilustrativo: las preguntas vienen de `qualification.slots` y el modelo las parafrasea en cada corrida. La puntuación sí es determinística.
-
-![Demo de asistente-comercial: calificacion de lead entrante por WhatsApp](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/asistente-comercial.gif)
-
-**Acceso al código / Code access** — estos repositorios son privados. Escríbenos para solicitar acceso.
-
-*These repositories are private. Contact us to request access.*
+*`asistente-pedidos`, `asistente-de-tienda`, `asistente-comercial` and `cdmx-agent-demo` are public — each README has its own demo GIF. `loyalty-club-engine` is still private; contact us for access.*
 
 ---
 
