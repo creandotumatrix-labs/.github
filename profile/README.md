@@ -90,6 +90,7 @@ Stack de infraestructura usado en despliegues de cliente (no reflejado en los re
 ## Contacto / Contact
 
 🌐 [creandotumatrix.com](https://creandotumatrix.com)  
+💼 [LinkedIn](https://linkedin.com/in/marcuspatman) · 📺 [YouTube](https://youtube.com/@marcuspatmanagentics)  
 ✉️ Ingeniería agéntica para LATAM — contáctanos para proyectos y colaboraciones
 
 ---
