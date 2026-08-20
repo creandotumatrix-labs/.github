@@ -9,18 +9,13 @@
 **Soluciones de IA agéntica para América Latina.**  
 Agentic AI solutions for Latin America.
 
----
-
-Construimos sistemas de IA autónomos, infraestructura cloud-native y automatización inteligente para empresas en LATAM.
+🌐 **Sitio completo (ES/EN): [creandotumatrix.com](https://creandotumatrix.com)**
 
 ---
 
-## ¿Qué hacemos? / What We Do
+Ingeniería agéntica, infraestructura cloud-native y automatización inteligente para empresas en LATAM. Este repo reúne nuestras herramientas open-source y demos técnicos — para servicios, casos de uso y contacto, visita el sitio.
 
-- **Ingeniería agéntica** — Diseño e implementación de sistemas multi-agente con Claude Code y SPARC  
-- **Infraestructura cloud** — AWS · GCP · Azure · Kubernetes · Terraform · GitOps, aplicado en despliegues de cliente (la infraestructura vive en proyectos privados, no en los repos públicos de este org)
-- **Automatización DevSecOps** — CI/CD, secret scanning, compliance, observabilidad  
-- **Coaching técnico** — Equipos de ingeniería que adoptan IA en su flujo de trabajo
+*Agentic engineering, cloud-native infrastructure, and intelligent automation for LATAM enterprises. This repo hosts our open-source tooling and technical demos — for services, use cases, and contact, visit the site.*
 
 ---
 
@@ -68,14 +63,7 @@ Productos en despliegue con clientes.
 
 ---
 
-## Filosofía / Philosophy
-
-> "Un solo ingeniero puede operar como un equipo completo."  
-> "One engineer can operate like an entire team."
-
-Nuestra metodología combina arquitectura de sistemas robusta con la velocidad que dan los agentes de IA modernos.
-
-Our methodology combines robust systems architecture with the velocity that modern AI agents enable.
+> "Un solo ingeniero puede operar como un equipo completo." / "One engineer can operate like an entire team." — más sobre nuestra metodología en [creandotumatrix.com](https://creandotumatrix.com).
 
 ---
 
