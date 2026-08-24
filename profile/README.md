@@ -26,6 +26,7 @@ Ingeniería agéntica, infraestructura cloud-native y automatización inteligent
 | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria entre sesiones (Beads), grafo de conocimiento del código (GitNexus), aislamiento por agente con git worktrees. Un solo comando lo despliega en DevPod, Codespaces o Rackspace Spot. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. |
 | [**turbo-flow-wizard**](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Asistente de configuración guiada para turbo-flow — generador interactivo de archivos `CLAUDE.md` específicos por proyecto. 12 tipos de aplicación, 7 metodologías, 19 conjuntos de funcionalidades. |
 | [**cloop**](https://github.com/adventurewave-labs/cloop) | — | Rust | Bucles agénticos para Claude Code — CLI en Rust sin dependencias que envuelve `claude --print` en un bucle configurable hasta que los tests pasen, aparezca un marcador o se cumplan N iteraciones. |
+| [**tf-verify.sh**](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | Framework de verificación y quality gates para turbo-flow — 50+ gates de verificación en 12 fases: dependencias, despliegue, artefactos, integridad de estado. Desarrollado y probado en combate durante compromisos reales con clientes. Incluido en turbo-flow `devpods/`. |
 
 ### En acción / In motion
 
