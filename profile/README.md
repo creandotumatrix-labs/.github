@@ -46,12 +46,11 @@ Productos en despliegue con clientes.
 | [**asistente-pedidos**](https://github.com/creandotumatrix-labs/asistente-pedidos) | Agente de pedidos y reservaciones por WhatsApp, marca blanca (es-MX), sobre un runtime compartido de tool-use con Claude. | [▶ Ver demo](https://asistente-pedidos-production.up.railway.app/kitchen) |
 | [**asistente-de-tienda**](https://github.com/creandotumatrix-labs/asistente-de-tienda) | Agente de soporte y ventas para retail y ecommerce por WhatsApp (es-MX), asentado sobre un catálogo real. | [▶ Ver demo](https://asistente-de-tienda-production.up.railway.app/) |
 | [**asistente-comercial**](https://github.com/creandotumatrix-labs/asistente-comercial) | Calificador de prospectos por WhatsApp, agnóstico al vertical: califica → puntúa → agenda → enruta. | [▶ Ver demo](https://asistente-comercial-production.up.railway.app/) |
-| [**cdmx-agent-demo**](https://github.com/creandotumatrix-labs/cdmx-agent-demo) | MVP de agente marca blanca para PyMEs de CDMX — calificación de prospectos inmobiliarios y pedidos de restaurante sobre un mismo runtime. | [▶ Ver demo](https://cdmx-agent-demo-production.up.railway.app/demo) |
 | **loyalty-club-engine** | Club de lealtad multi-comercio por WhatsApp — agente Claude + herramientas determinísticas + Postgres. | *repositorio privado* |
 
-**Acceso al código / Code access** — `asistente-pedidos`, `asistente-de-tienda`, `asistente-comercial` y `cdmx-agent-demo` son públicos; cada README trae su propio GIF de demo. `loyalty-club-engine` sigue privado — escríbenos para solicitar acceso.
+**Acceso al código / Code access** — `asistente-pedidos`, `asistente-de-tienda` y `asistente-comercial` son públicos; cada README trae su propio GIF de demo. `loyalty-club-engine` sigue privado — escríbenos para solicitar acceso.
 
-*`asistente-pedidos`, `asistente-de-tienda`, `asistente-comercial` and `cdmx-agent-demo` are public — each README has its own demo GIF. `loyalty-club-engine` is still private; contact us for access.*
+*`asistente-pedidos`, `asistente-de-tienda` and `asistente-comercial` are public — each README has its own demo GIF. `loyalty-club-engine` is still private; contact us for access.*
 
 ### En acción / In motion
 
@@ -59,9 +58,7 @@ Productos en despliegue con clientes.
 |:---:|:---:|
 | *asistente-pedidos — pedido y reservación por WhatsApp, tablero de cocina en vivo* | *asistente-de-tienda — soporte y ventas grounded en catálogo real* |
 
-| [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/asistente-comercial/main/asistente-comercial-demo.gif" width="420" alt="asistente-comercial calificando un prospecto por WhatsApp y agendando una cita en Google Calendar">](https://github.com/creandotumatrix-labs/asistente-comercial) | [<img src="https://raw.githubusercontent.com/creandotumatrix-labs/cdmx-agent-demo/main/cdmx-agent-demo.gif" width="420" alt="cdmx-agent-demo mostrando el mismo motor cambiando de inmobiliaria a restaurante con un solo archivo de configuracion">](https://github.com/creandotumatrix-labs/cdmx-agent-demo) |
-|:---:|:---:|
-| *asistente-comercial — calificación, scoring y booking de leads por WhatsApp* | *cdmx-agent-demo — un motor, dos verticales, marca blanca por config* |
+
 
 ---
 
@@ -87,3 +84,4 @@ Stack de infraestructura usado en despliegues de cliente (no reflejado en los re
 
 Built by [Marcus Patman](https://github.com/marcuspat) — Principal Agentic Engineer  
 Open-source tooling at [adventurewave-labs](https://github.com/adventurewave-labs) · LATAM AI at [creandotumatrix-labs](https://github.com/creandotumatrix-labs)
+
