@@ -25,8 +25,8 @@ Ingeniería agéntica, infraestructura cloud-native y automatización inteligent
 
 ## Asistentes CTM
 
-Productos en despliegue con clientes.
-*Commercial products in client deployment.*
+Suite de agentes por WhatsApp para LATAM, en desarrollo activo.
+*WhatsApp agent suite for LATAM, in active development.*
 
 | Producto | Propósito | Demo |
 |---|---|---|
