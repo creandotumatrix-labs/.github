@@ -30,8 +30,8 @@ Suite de agentes por WhatsApp para LATAM, en desarrollo activo.
 
 | Producto | Propósito | Demo |
 |---|---|---|
-| [**asistente-pedidos**](https://github.com/creandotumatrix-labs/asistente-pedidos) | Agente de pedidos y reservaciones por WhatsApp, marca blanca (es-MX), sobre un runtime compartido de tool-use con Claude. | [▶ Ver demo](https://asistente-pedidos-production.up.railway.app/kitchen) |
-| [**asistente-de-tienda**](https://github.com/creandotumatrix-labs/asistente-de-tienda) | Agente de soporte y ventas para retail y ecommerce (es-MX), asentado sobre un catálogo real — WhatsApp en fase 2. | [▶ Ver demo](https://asistente-de-tienda-production.up.railway.app/) |
+| [**asistente-pedidos**](https://github.com/creandotumatrix-labs/asistente-pedidos) | Agente de pedidos y reservaciones por WhatsApp, marca blanca (es-MX), sobre una arquitectura compartida de tool-use con Claude. | [▶ Ver demo](https://asistente-pedidos-production.up.railway.app/kitchen) |
+| [**asistente-de-tienda**](https://github.com/creandotumatrix-labs/asistente-de-tienda) | Simulador CLI de soporte y ventas para retail y ecommerce (es-MX), asentado sobre un catálogo real — WhatsApp en fase 2. | [▶ Ver demo](https://asistente-de-tienda-production.up.railway.app/) |
 | [**asistente-comercial**](https://github.com/creandotumatrix-labs/asistente-comercial) | Calificador de prospectos por WhatsApp, agnóstico al vertical: califica → puntúa → agenda → enruta. | [▶ Ver demo](https://asistente-comercial-production.up.railway.app/) |
 | **loyalty-club-engine** | Club de lealtad multi-comercio por WhatsApp — agente Claude + herramientas determinísticas + Postgres. | *repositorio privado* |
 
