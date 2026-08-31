@@ -1,10 +1,10 @@
 <div align="center">
 
-[![CreandoTuMatrix Labs](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/banner.svg)](https://github.com/creandotumatrix-labs)
+[![Creando Tu Matrix Labs](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/banner.svg)](https://github.com/creandotumatrix-labs)
 
 </div>
 
-# CreandoTuMatrix Labs
+# Creando Tu Matrix Labs
 
 **Soluciones de IA agéntica para América Latina.**  
 Agentic AI solutions for Latin America.
