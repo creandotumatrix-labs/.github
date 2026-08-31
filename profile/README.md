@@ -86,3 +86,8 @@ Stack de infraestructura usado en despliegues de cliente (no reflejado en los re
 
 Built by [Marcus Patman](https://github.com/marcuspat) — Principal Agentic Engineer  
 Open-source tooling at [adventurewave-labs](https://github.com/adventurewave-labs) · LATAM AI at [creandotumatrix-labs](https://github.com/creandotumatrix-labs)
+---
+
+**Co-fundadores / Co-founders:**
+- Marcus Patman — Principal Agentic Engineer · [@marcuspat](https://github.com/marcuspat)
+- Marce García — CEO & Co-Fundadora · [creandotumatrix.com](https://creandotumatrix.com)
