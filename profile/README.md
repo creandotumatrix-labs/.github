@@ -72,8 +72,6 @@ Suite de agentes por WhatsApp para LATAM, en desarrollo activo.
 
 Claude Code · Rust · Python · Shell
 
-Stack de infraestructura usado en despliegues de cliente (no reflejado en los repos públicos de este org): Kubernetes · Terraform · ArgoCD · AWS · GCP · Azure
-
 ---
 
 ## Contacto / Contact
