@@ -47,6 +47,21 @@ Suite de agentes por WhatsApp para LATAM, en desarrollo activo.
 
 ---
 
+## El stack Turbo-Rig
+
+El sucesor de Turbo Flow — no más agentes, sino el arnés que los gobierna: **Triangle + Spine + Loop**. Carriles intercambiables (builder / reviewer / reserva) bajo una constitución compartida, una compuerta de revisión **cruzada entre familias de modelos** con veredictos fail-closed, aislamiento por worktrees para escritores paralelos, memoria entre sesiones versionada en git — y el botón de fusionar siempre en manos humanas.
+
+*The successor to Turbo Flow — not more agents, but the harness that governs them: roster-swappable lanes under one shared constitution, a cross-family review gate with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.*
+
+| Herramienta | Estrellas | Lenguaje | Propósito |
+|---|---|---|---|
+| [**turbo-rig**](https://github.com/marcuspat/turbo-rig) | — | Shell / Python | El rig completo: constitución de diez leyes, `review.sh` (la compuerta de revisión con contabilidad de tokens), `wt.sh` worktrees, `secret.sh` keychain, `memory/` versionada en git, specs y runbooks — un solo comando instala y cablea todo. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. *Repositorio privado — beta.* |
+| [**turbo-rig.com**](https://turbo-rig.com) | — | — | Página de producto: la metodología completa — por qué builder ≠ reviewer, los tres planos de ejecución (laptop / VPS / Codespaces) y el lazo de ocho estaciones que termina en fusión humana. |
+| [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Recorrido técnico con 11 diagramas SVG y escena 3D explorable — triángulo, espina, planos y lazo, sección por sección. |
+| [**Beta**](https://turbo-rig-beta.vercel.app) | — | — | Solicitud de acceso al repo privado durante la beta. |
+
+---
+
 ## El stack Turbo-Flow
 
 | Herramienta | Estrellas | Lenguaje | Propósito |
