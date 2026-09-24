@@ -27,7 +27,7 @@ Ingeniería agéntica, infraestructura cloud-native y automatización inteligent
 
 <div align="center">
 
-<a href="https://ancuria.mx"><img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/ancuria-flagship/profile/demos/ancuria-hero.png" width="760" alt="Ancuria — inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit"></a>
+<a href="https://ancuria.mx"><img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/ancuria-hero.png" width="760" alt="Ancuria — inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit"></a>
 
 **[ancuria.mx](https://ancuria.mx)** · Inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit
 
