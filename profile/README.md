@@ -23,6 +23,47 @@ Ingeniería agéntica, infraestructura cloud-native y automatización inteligent
 
 ---
 
+## 🏠 Ancuria — plataforma insignia
+
+<div align="center">
+
+<a href="https://ancuria.mx"><img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/ancuria-hero.png" width="760" alt="Ancuria — inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit"></a>
+
+**[ancuria.mx](https://ancuria.mx)** · Inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit
+
+[![producto insignia / flagship](https://img.shields.io/badge/producto%20insignia-flagship-1C3A5C?style=flat-square)](https://ancuria.mx) [![idiomas / ES EN](https://img.shields.io/badge/idiomas-ES%20%2F%20EN-2563EB?style=flat-square)](https://ancuria.mx) [![en vivo / production](https://img.shields.io/badge/en%20vivo-production-2EA44F?style=flat-square)](https://ancuria.mx)
+
+*"El poder ya existe. La magia la sigue haciendo el agente."*
+*The power already exists. The magic is still made by the agent.*
+
+**45+** indicadores de mercado · **4** calculadoras RADAR · **3** niveles de asistente IA · **2** idiomas
+
+</div>
+
+Nuestra plataforma inmobiliaria insignia — en producción, bilingüe y hecha para el terreno: publica una vez y la red de agentes hace el resto. Fotos optimizadas y descripciones redactadas por IA en ES/EN, cotizaciones RADAR firmables en PDF, un CRM que se llena solo mientras vendes, y pagos mexicanos de punta a punta — tarjeta, SPEI y efectivo vía Conekta, con facturación CFDI. Básico es gratis con publicaciones ilimitadas; los planes crecen de $249 a $699 MXN/mes, con 30 días de acceso completo al registrarte.
+
+*Our flagship real-estate platform — in production, bilingual, and built for the field: publish once and the agent network does the rest. AI-optimized photos and ES/EN drafted descriptions, signable RADAR quotes in PDF, a CRM that fills itself while you sell, and end-to-end Mexican payments — card, SPEI, and cash via Conekta, with CFDI invoicing. Básico is free with unlimited listings; plans scale from $249 to $699 MXN/month, with 30 days of full access on signup.*
+
+| Capacidad | Qué hace |
+|---|---|
+| **Publica una vez** | Cada propiedad entra viva al feed y a la búsqueda de toda la red de agentes. |
+| **Fotos + IA** | Imagen principal y miniatura optimizadas (WebP); descripciones y precios redactados por IA en ES/EN. |
+| **Asistente IA — 3 niveles** | Desde respuestas sobre la plataforma hasta un agente con memoria que cotiza, agenda y redacta por ti. |
+| **RADAR** | 4 calculadoras — cotizador, bancaria, ROI y comparativo de zona — sobre 45+ indicadores de mercado, con tipo de cambio Banxico en vivo. |
+| **CRM que se llena solo** | Cada contacto llega con historial completo, scoring, temperatura y coincidencias automáticas con tu portafolio. |
+| **Hecha para el terreno** | PWA instalable, modo claro/oscuro, notificaciones email y web push, y compartir por WhatsApp con PDF de marca. |
+
+| Recurso | Estrellas | Lenguaje | Propósito |
+|---|---|---|---|
+| [**ancuria.mx**](https://ancuria.mx) | — | — | El producto en vivo — registros, publicaciones, asistente, RADAR y pagos en producción. |
+| [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Recorrido técnico del ciclo completo: de la publicación al cierre, sección por sección. |
+| [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | La plataforma como escena 3D explorable. |
+| **ancuria** | — | TypeScript | El código — Next.js 16 · React 19 · Prisma · PostgreSQL. *Repositorio privado — escríbenos para solicitar acceso.* |
+
+*Construida con desarrollo agéntico — cada cambio cruza una compuerta de revisión fail-closed antes de llegar a producción.*
+
+---
+
 ## Asistentes CTM
 
 Suite de agentes por WhatsApp para LATAM, en desarrollo activo.
