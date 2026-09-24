@@ -58,7 +58,7 @@ Nuestra plataforma inmobiliaria insignia — en producción, bilingüe y hecha p
 | [**ancuria.mx**](https://ancuria.mx) | — | — | El producto en vivo — registros, publicaciones, asistente, RADAR y pagos en producción. |
 | [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Recorrido técnico del ciclo completo: de la publicación al cierre, sección por sección. |
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | La plataforma como escena 3D explorable. |
-| [**ancuria**](https://github.com/marcuspat/ancuria) | — | TypeScript | El código — Next.js 16 · React 19 · Prisma · PostgreSQL. *Repositorio privado.* |
+| **ancuria** | — | TypeScript | El código — Next.js 16 · React 19 · Prisma · PostgreSQL. *Repositorio privado — escríbenos para solicitar acceso.* |
 
 *Construida con desarrollo agéntico — cada cambio cruza una compuerta de revisión fail-closed antes de llegar a producción.*
 
