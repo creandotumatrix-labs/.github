@@ -60,6 +60,16 @@ Nuestra plataforma inmobiliaria insignia — en producción, bilingüe y hecha p
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | La plataforma como escena 3D explorable. |
 | **ancuria** | — | TypeScript | El código — Next.js 16 · React 19 · Prisma · PostgreSQL. *Repositorio privado — escríbenos para solicitar acceso.* |
 
+### En movimiento
+
+<div align="center">
+
+<a href="https://ancuria.com"><img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/ancuria-demo.gif" width="650" alt="Ancuria — un usuario nuevo inicia sesión en ancuria.com y recorre la app: detalle de propiedad, Inteligencia de Mercado, cotizador RADAR, planes"></a>
+
+*Ancuria — un usuario nuevo en el producto en vivo: inicio de sesión, detalle de propiedad, Inteligencia de Mercado, cotizador RADAR de planes de pago.*
+
+</div>
+
 *Construida con desarrollo agéntico — cada cambio cruza una compuerta de revisión fail-closed antes de llegar a producción.*
 
 ---
