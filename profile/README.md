@@ -27,11 +27,11 @@ Ingeniería agéntica, infraestructura cloud-native y automatización inteligent
 
 <div align="center">
 
-<a href="https://ancuria.mx"><img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/ancuria-hero.png" width="760" alt="Ancuria — inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit"></a>
+<a href="https://ancuria.com"><img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/demos/ancuria-hero.png" width="760" alt="Ancuria — inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit"></a>
 
-**[ancuria.mx](https://ancuria.mx)** · Inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit
+**[ancuria.com](https://ancuria.com)** · Inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit
 
-[![producto insignia / flagship](https://img.shields.io/badge/producto%20insignia-flagship-1C3A5C?style=flat-square)](https://ancuria.mx) [![idiomas / ES EN](https://img.shields.io/badge/idiomas-ES%20%2F%20EN-2563EB?style=flat-square)](https://ancuria.mx) [![en vivo / production](https://img.shields.io/badge/en%20vivo-production-2EA44F?style=flat-square)](https://ancuria.mx)
+[![producto insignia / flagship](https://img.shields.io/badge/producto%20insignia-flagship-1C3A5C?style=flat-square)](https://ancuria.com) [![idiomas / ES EN](https://img.shields.io/badge/idiomas-ES%20%2F%20EN-2563EB?style=flat-square)](https://ancuria.com) [![en vivo / production](https://img.shields.io/badge/en%20vivo-production-2EA44F?style=flat-square)](https://ancuria.com)
 
 *"El poder ya existe. La magia la sigue haciendo el agente."*
 *The power already exists. The magic is still made by the agent.*
@@ -55,7 +55,7 @@ Nuestra plataforma inmobiliaria insignia — en producción, bilingüe y hecha p
 
 | Recurso | Estrellas | Lenguaje | Propósito |
 |---|---|---|---|
-| [**ancuria.mx**](https://ancuria.mx) | — | — | El producto en vivo — registros, publicaciones, asistente, RADAR y pagos en producción. |
+| [**ancuria.com**](https://ancuria.com) | — | — | El producto en vivo — registros, publicaciones, asistente, RADAR y pagos en producción. |
 | [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Recorrido técnico del ciclo completo: de la publicación al cierre, sección por sección. |
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | La plataforma como escena 3D explorable. |
 | **ancuria** | — | TypeScript | El código — Next.js 16 · React 19 · Prisma · PostgreSQL. *Repositorio privado — escríbenos para solicitar acceso.* |
