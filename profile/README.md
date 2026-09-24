@@ -27,7 +27,7 @@ Ingeniería agéntica, infraestructura cloud-native y automatización inteligent
 
 <div align="center">
 
-<a href="https://ancuria.mx"><img src="https://ancuria.mx/og/og-image-1200x630.png" width="760" alt="Ancuria — inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit"></a>
+<a href="https://ancuria.mx"><img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/ancuria-flagship/profile/demos/ancuria-hero.png" width="760" alt="Ancuria — inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit"></a>
 
 **[ancuria.mx](https://ancuria.mx)** · Inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit
 
@@ -60,7 +60,7 @@ Nuestra plataforma inmobiliaria insignia — en producción, bilingüe y hecha p
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | La plataforma como escena 3D explorable. |
 | [**ancuria**](https://github.com/marcuspat/ancuria) | — | TypeScript | El código — Next.js 16 · React 19 · Prisma · PostgreSQL. *Repositorio privado.* |
 
-*Construida con desarrollo agéntico — 399 pull requests fusionados a la fecha.*
+*Construida con desarrollo agéntico — cada cambio cruza una compuerta de revisión fail-closed antes de llegar a producción.*
 
 ---
 
