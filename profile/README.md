@@ -57,7 +57,8 @@ El sucesor de Turbo Flow — no más agentes, sino el arnés que los gobierna: *
 |---|---|---|---|
 | [**turbo-rig**](https://github.com/marcuspat/turbo-rig) | — | Shell / Python | El rig completo: constitución de diez leyes, `review.sh` (la compuerta de revisión con contabilidad de tokens), `wt.sh` worktrees, `secret.sh` keychain, `memory/` versionada en git, specs y runbooks — un solo comando instala y cablea todo. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. *Repositorio privado — beta.* |
 | [**turbo-rig.com**](https://turbo-rig.com) | — | — | Página de producto: la metodología completa — por qué builder ≠ reviewer, los tres planos de ejecución (laptop / VPS / Codespaces) y el lazo de ocho estaciones que termina en fusión humana. |
-| [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Recorrido técnico con 11 diagramas SVG y escena 3D explorable — triángulo, espina, planos y lazo, sección por sección. |
+| [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Recorrido técnico con 11 diagramas SVG y [escena 3D explorable](https://turbo-rig-deep-dive-3d.vercel.app) — triángulo, espina, planos y lazo, sección por sección. |
+| [**Stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) | — | — | El rig en números — una semana real de operación (14–21 sept 2026): 141 PRs fusionados, 868 revisiones del gate, 104 carriles de worktree y 4.21B tokens, trazados al `gate-log.jsonl`. |
 | [**Beta**](https://turbo-rig-beta.vercel.app) | — | — | Solicitud de acceso al repo privado durante la beta. |
 
 ---
