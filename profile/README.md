@@ -1,8 +1,6 @@
-<p align="center"><img src="banner.svg" alt="github-org — animated banner" width="100%"></p>
-
 <div align="center">
 
-[![Creando Tu Matrix Labs](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/banner.svg)](https://github.com/creandotumatrix-labs)
+[![Creando Tu Matrix Labs](https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/banner.svg)](https://github.com/creandotumatrix-labs)
 
 </div>
 
