@@ -119,6 +119,10 @@ Turbo Rig es una **herramienta DevOps para agentes de código con IA** — opera
 
 ## El stack Turbo-Flow — herramienta de desarrollo para código escrito por IA
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/turbo-flow-stack.svg" width="840" alt="Turbo Flow, una herramienta de desarrollo — la capa de reglas para código escrito por IA: builder de cualquier familia, checks deterministas gratuitos, revisor de otra familia de modelos, veredicto REVISE → APPROVED, y solo un humano fusiona a main.">
+</p>
+
 Una **herramienta de desarrollo**: la capa de reglas para código escrito por IA — rig-lite, un kit portátil de gobernanza que se suelta en cualquier repo y funciona con cualquier agente de código.
 
 *A **developer tool**: the rules layer for AI-written code — rig-lite, a portable governance kit you drop into any repo, working with any coding agent.*
