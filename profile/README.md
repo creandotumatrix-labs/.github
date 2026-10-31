@@ -110,7 +110,6 @@ El sucesor de Turbo Flow — no más agentes, sino el arnés que los gobierna: *
 | [**turbo-rig.com**](https://turbo-rig.com) | — | — | Página de producto: la metodología completa — por qué builder ≠ reviewer, los tres planos de ejecución (laptop / VPS / Codespaces) y el lazo de ocho estaciones que termina en fusión humana. |
 | [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Recorrido técnico con 11 diagramas SVG y [escena 3D explorable](https://turbo-rig-deep-dive-3d.vercel.app) — triángulo, espina, planos y lazo, sección por sección. |
 | [**Stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) | — | — | El rig en números — una semana real de operación (14–21 sept 2026): 141 PRs fusionados, 868 revisiones del gate, 104 carriles de worktree y 4.21B tokens, trazados al `gate-log.jsonl`. |
-| [**Beta**](https://turbo-rig-beta.vercel.app) | — | — | Solicitud de acceso al repo privado durante la beta. |
 
 ---
 
@@ -121,7 +120,7 @@ El sucesor de Turbo Flow — no más agentes, sino el arnés que los gobierna: *
 | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | [![stars](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90)](https://github.com/marcuspat/turbo-flow/stargazers) | Shell / Python | Entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria entre sesiones (Beads), grafo de conocimiento del código (GitNexus), aislamiento por agente con git worktrees. Un solo comando lo despliega en DevPod, Codespaces o Rackspace Spot. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. |
 | [**turbo-flow-wizard**](https://github.com/adventurewave-labs/turbo-flow-wizard) | [![stars](https://img.shields.io/github/stars/adventurewave-labs/turbo-flow-wizard?style=flat-square&label=%E2%AD%90)](https://github.com/adventurewave-labs/turbo-flow-wizard/stargazers) | Shell | Asistente de configuración guiada para turbo-flow — generador interactivo de archivos `CLAUDE.md` específicos por proyecto. 12 tipos de aplicación, 7 metodologías, 19 conjuntos de funcionalidades. |
 | [**loopgen**](https://github.com/adventurewave-labs/loopgen-rs) | — | Rust | Bucles agénticos para Claude Code — wizard interactivo, configs TOML, exportación bash, protocolo LOOP_STATUS. Publicado en [crates.io/crates/loopgen](https://crates.io/crates/loopgen). |
-| [**tf-verify.sh**](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | Framework de verificación y quality gates para turbo-flow — 50+ gates de verificación en 12 fases: dependencias, despliegue, artefactos, integridad de estado. Desarrollado y probado en combate durante compromisos reales con clientes. Incluido en turbo-flow `devpods/`. |
+
 
 ### En acción / In motion
 
