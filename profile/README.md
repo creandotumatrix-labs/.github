@@ -99,25 +99,33 @@ Suite de agentes por WhatsApp para LATAM, en desarrollo activo.
 
 ---
 
-## El stack Turbo-Rig
+## El stack Turbo-Rig — herramienta DevOps para agentes de código con IA
 
-El sucesor de Turbo Flow — no más agentes, sino el arnés que los gobierna: **Triangle + Spine + Loop**. Carriles intercambiables (builder / reviewer / reserva) bajo una constitución compartida, una compuerta de revisión **cruzada entre familias de modelos** con veredictos fail-closed, aislamiento por worktrees para escritores paralelos, memoria entre sesiones versionada en git — y el botón de fusionar siempre en manos humanas.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/turbo-rig-stack.svg" width="840" alt="Turbo Rig, herramienta DevOps para agentes de código con IA: triángulo de carriles builder, reviewer y reserva sobre una espina constitucional, dentro del lazo. Compuerta entre modelos, veredictos fail-closed, fusión humana.">
+</p>
 
-*The successor to Turbo Flow — not more agents, but the harness that governs them: roster-swappable lanes under one shared constitution, a cross-family review gate with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.*
+Turbo Rig es una **herramienta DevOps para agentes de código con IA** — opera tus agentes como operas producción: una compuerta de revisión entre modelos como control del pipeline, fusiones en manos humanas, secretos en el keychain, automatizaciones programadas y estado en git. No más agentes: el arnés que los gobierna, **Triangle + Spine + Loop**. Carriles intercambiables (builder / reviewer / reserva) bajo una constitución compartida, una compuerta de revisión **cruzada entre familias de modelos** con veredictos fail-closed, aislamiento por worktrees para escritores paralelos, memoria entre sesiones versionada en git — y el botón de fusionar siempre en manos humanas.
+
+*Turbo Rig is a **DevOps tool for AI coding agents** — it runs your agents the way you already run production: a cross-model review gate as the pipeline check, merges held by humans, secrets in the keychain, scheduled automations, and state in git. Not more agents: the harness that governs them — roster-swappable lanes under one shared constitution, a cross-family review gate with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.*
 
 | Herramienta | Estrellas | Lenguaje | Propósito |
 |---|---|---|---|
-| [**turbo-rig**](https://github.com/marcuspat/turbo-rig) | — | Shell / Python | El rig completo: constitución de diez leyes, `review.sh` (la compuerta de revisión con contabilidad de tokens), `wt.sh` worktrees, `secret.sh` keychain, `memory/` versionada en git, specs y runbooks — un solo comando instala y cablea todo. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. *Repositorio privado — beta.* |
+| [**turbo-rig**](https://github.com/marcuspat/turbo-rig) | — | Shell / Python | El rig completo — una herramienta DevOps para agentes de código con IA: constitución de once leyes, `review.sh` (la compuerta de revisión con contabilidad de tokens), `wt.sh` worktrees, `secret.sh` keychain, `memory/` versionada en git, automatizaciones programadas, specs y runbooks — un solo comando instala y cablea todo. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. *Repositorio privado — beta.* |
 | [**turbo-rig.com**](https://turbo-rig.com) | — | — | Página de producto: la metodología completa — por qué builder ≠ reviewer, los tres planos de ejecución (laptop / VPS / Codespaces) y el lazo de ocho estaciones que termina en fusión humana. |
 | [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Recorrido técnico con 11 diagramas SVG y [escena 3D explorable](https://turbo-rig-deep-dive-3d.vercel.app) — triángulo, espina, planos y lazo, sección por sección. |
 
 ---
 
-## El stack Turbo-Flow
+## El stack Turbo-Flow — herramienta de desarrollo para código escrito por IA
+
+Una **herramienta de desarrollo**: la capa de reglas para código escrito por IA — rig-lite, un kit portátil de gobernanza que se suelta en cualquier repo y funciona con cualquier agente de código.
+
+*A **developer tool**: the rules layer for AI-written code — rig-lite, a portable governance kit you drop into any repo, working with any coding agent.*
 
 | Herramienta | Estrellas | Lenguaje | Propósito |
 |---|---|---|---|
-| [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | [![stars](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90)](https://github.com/marcuspat/turbo-flow/stargazers) | Shell / Python | Entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria entre sesiones (Beads), grafo de conocimiento del código (GitNexus), aislamiento por agente con git worktrees. Un solo comando lo despliega en DevPod, Codespaces o Rackspace Spot. Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. |
+| [**turbo-flow**](https://github.com/marcuspat/turbo-flow) | [![stars](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90)](https://github.com/marcuspat/turbo-flow/stargazers) | Shell / Python | Una herramienta de desarrollo — la capa de reglas para código escrito por IA: rig-lite, un kit portátil de gobernanza (compuerta de revisión entre modelos que falla cerrada, constitución escrita, memoria versionada en git, worktrees, secretos) para cualquier repo y cualquier agente de código. Las versiones 1–4 (2025–2026) fueron el entorno agéntico de desarrollo completo — 215+ herramientas MCP, memoria Beads, grafo GitNexus, aislamiento por agente con worktrees; desde la v5 (septiembre 2026) es la capa de reglas. Sitio: [turboflow.online](https://www.turboflow.online). Proyecto personal de [Marcus Patman](https://github.com/marcuspat), no de este org. |
 | [**turbo-flow-wizard**](https://github.com/adventurewave-labs/turbo-flow-wizard) | [![stars](https://img.shields.io/github/stars/adventurewave-labs/turbo-flow-wizard?style=flat-square&label=%E2%AD%90)](https://github.com/adventurewave-labs/turbo-flow-wizard/stargazers) | Shell | Generador interactivo de archivos `CLAUDE.md` específicos por proyecto. 12 tipos de aplicación, 7 metodologías, 19 conjuntos de funcionalidades. |
 | [**loopgen**](https://github.com/adventurewave-labs/loopgen-rs) | — | Rust | Bucles agénticos para Claude Code — wizard interactivo, configs TOML, exportación bash, protocolo LOOP_STATUS. Publicado en [crates.io/crates/loopgen](https://crates.io/crates/loopgen). |
 
