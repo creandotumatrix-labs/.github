@@ -101,6 +101,10 @@ Suite de agentes por WhatsApp para LATAM, en desarrollo activo.
 
 ## El stack Turbo-Rig — herramienta DevOps para agentes de código con IA
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/creandotumatrix-labs/.github/main/profile/turbo-rig-stack.svg" width="840" alt="Turbo Rig, herramienta DevOps para agentes de código con IA: triángulo de carriles builder, reviewer y reserva sobre una espina constitucional, dentro del lazo. Compuerta entre modelos, veredictos fail-closed, fusión humana.">
+</p>
+
 Turbo Rig es una **herramienta DevOps para agentes de código con IA** — opera tus agentes como operas producción: una compuerta de revisión entre modelos como control del pipeline, fusiones en manos humanas, secretos en el keychain, automatizaciones programadas y estado en git. No más agentes: el arnés que los gobierna, **Triangle + Spine + Loop**. Carriles intercambiables (builder / reviewer / reserva) bajo una constitución compartida, una compuerta de revisión **cruzada entre familias de modelos** con veredictos fail-closed, aislamiento por worktrees para escritores paralelos, memoria entre sesiones versionada en git — y el botón de fusionar siempre en manos humanas.
 
 *Turbo Rig is a **DevOps tool for AI coding agents** — it runs your agents the way you already run production: a cross-model review gate as the pipeline check, merges held by humans, secrets in the keychain, scheduled automations, and state in git. Not more agents: the harness that governs them — roster-swappable lanes under one shared constitution, a cross-family review gate with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.*
