@@ -31,7 +31,7 @@ Ingeniería agéntica, infraestructura cloud-native y automatización inteligent
 
 **[ancuria.com](https://ancuria.com)** · Inteligencia inmobiliaria para agentes en Puerto Vallarta y Riviera Nayarit
 
-[![producto insignia / flagship](https://img.shields.io/badge/producto%20insignia-flagship-1C3A5C?style=flat-square)](https://ancuria.com) [![idiomas / ES EN](https://img.shields.io/badge/idiomas-ES%20%2F%20EN-2563EB?style=flat-square)](https://ancuria.com) [![en vivo / production](https://img.shields.io/badge/en%20vivo-production-2EA44F?style=flat-square)](https://ancuria.com)
+[![producto insignia / flagship](https://img.shields.io/badge/producto%20insignia-flagship-1C3A5C?style=flat-square)](https://ancuria.com) [![idiomas / ES EN](https://img.shields.io/badge/idiomas-ES%20%2F%20EN-2563EB?style=flat-square)](https://ancuria.com) [![en vivo / production](https://img.shields.io/badge/en%20vivo-production-2EA44F?style=flat-square)](https://ancuria.com) [![plugin / ChatGPT](https://img.shields.io/badge/plugin-ChatGPT-10A37F?style=flat-square)](https://chatgpt.com/plugins/plugin_asdk_app_6add634eed0481919dbf3a1a5b6a26c8)
 
 *"El poder ya existe. La magia la sigue haciendo el agente."*
 *The power already exists. The magic is still made by the agent.*
@@ -56,6 +56,7 @@ Nuestra plataforma inmobiliaria insignia — en producción, bilingüe y hecha p
 | Recurso | Estrellas | Lenguaje | Propósito |
 |---|---|---|---|
 | [**ancuria.com**](https://ancuria.com) | — | — | El producto en vivo — registros, publicaciones, asistente, RADAR y pagos en producción. |
+| [**Plugin de ChatGPT**](https://chatgpt.com/plugins/plugin_asdk_app_6add634eed0481919dbf3a1a5b6a26c8) | — | — | Busca rentas de Vallarta dentro de ChatGPT — plugin MCP (`ancuria-rentas-vallarta`) publicado en el directorio oficial: búsqueda bilingüe, fichas con fotos y solicitud de visita, sobre `mcp.ancuria.mx`. |
 | [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Recorrido técnico del ciclo completo: de la publicación al cierre, sección por sección. |
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | La plataforma como escena 3D explorable. |
 | **ancuria** | — | TypeScript | El código — Next.js 16 · React 19 · Prisma · PostgreSQL. *Repositorio privado — escríbenos para solicitar acceso.* |
